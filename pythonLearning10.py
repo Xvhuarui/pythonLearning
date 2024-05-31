@@ -32,3 +32,5 @@ for index, char in enumerate(list1,start=1):
 
 # P156 09-容器类型转换
 # tuple()-转换为元组 list()-转换为列表 set()-转换为集合
+
+# 推导式主要在于 i for i in range()的基本形式，可应用于列表、字典、集合，可在后方添加for、if等代码
